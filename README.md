@@ -1,4 +1,4 @@
-# Tienda Online Panamá — Base de Datos
+# Tienda Online Panamá - Base de Datos
 
 Base de datos relacional diseñada para un sistema de ventas 
 en línea, desarrollada como proyecto final universitario.
